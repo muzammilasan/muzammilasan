@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Muzammil Ali Asan</h1>
 
-<!--
-**muzammilasan/muzammilasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🧠 ___ Student | 💻 Future Developer | 🌍 Kerala, India
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+I'm a curious and motivated student currently diving into the world of tech.  
+I’m passionate about building things, exploring new tools, and someday working **as a developer**.
+
+Although I'm just starting my professional journey, I've had the spark for **coding** for years — and now it's time to bring that to life.
+
+---
+
+### 🌱 Currently Learning
+- HTML, CSS & JavaScript
+- Python programming
+- Git & GitHub
+- How to be awesome at tech
+
+---
+
+### 🎯 Goals
+- Master full-stack web development
+- Contribute to open-source projects
+- Land a remote dev job 💼
+- Build a future where I can help others too 🤝
+
+---
+
+### 📫 Reach Me At
+- 📧 Email: [muzammilaliasan07@gmail.com](mailto:muzammilaliasan07@gmail.com)
+- 💼 LinkedIn: (Coming soon!)
+- 🌐 Portfolio: (Coming soon!)
+
+---
+
+> “Small steps every day lead to big results.”  
+> Let’s build together 🚀
