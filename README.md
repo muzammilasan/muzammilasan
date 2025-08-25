@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Muzammil Ali Asan</h1>
 
 <p align="center">
-  🧠 ___ Student | 💻 Future Developer | 🌍 Kerala, India
+  🧠 B.Tech CSE Student | 💻 Future Developer | 🌍 Kerala, India
 </p>
 
 ---
