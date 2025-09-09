@@ -17,6 +17,7 @@ Although I'm just starting my professional journey, I've had the spark for **cod
 ### 🌱 Currently Learning
 - HTML, CSS & JavaScript
 - Python programming
+- C++ programming
 - Git & GitHub
 - How to be awesome at tech
 
